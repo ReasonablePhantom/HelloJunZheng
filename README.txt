@@ -1,12 +1,12 @@
-# HelloJunZheng
+#HelloJunZheng
 
 ## Table of Contents
 
-1. [Overview](关于我的自我介绍)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
+1. [Overview] (About my self-introduction)
+1. [Product Spec] (#Product-Spec)
+1. [Wireframes] (#Wireframes)
 
-## Bruce的自我介绍
+## Bruce's self-introduction
 
 ### Description
 
@@ -28,33 +28,33 @@
 
 **Required Features**
 
-* [包括我的名字，以及简介还有三个习惯]
-* ...
+* [Include my name, profile and three habits]
+*...
 
 **Stretch Features**
 
 * [fill in your optional user features here]
-* ...
+*...
 
 ### 2. Chosen APIs
 
 - [list first API endpoint here]
-  - [list associated required story here]
-  - ...
+   - [list associated required story here]
+   -...
 - [list second API endpoint here]
-  - [list associated required story here]
-  - ...
+   - [list associated required story here]
+   -...
 
 ### 3. User Interaction
 
 **User Story**
 
 - [list first user action here]
-  - [list result of user action here]
-  - ...
+   - [list result of user action here]
+   -...
 - [list second user action here]
-  - [list result of user action here]
-  - ...
+   - [list result of user action here]
+   -...
 
 ## Wireframes
 
